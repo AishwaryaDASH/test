@@ -1,4 +1,5 @@
 # test
 Testing for git commands
  
- Git is awesome!
+ 
+Git is cool stuff!
