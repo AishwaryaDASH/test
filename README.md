@@ -1,4 +1,6 @@
-# test
-Testing for git commands
+#About Git
+
  
-Hullo der Git
+Git is awesome!
+
+Git is a version control system...
